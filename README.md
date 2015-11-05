@@ -4,5 +4,5 @@
 #### GoogleMap.js
 ### 坐标转换
 #### MarsCoord.js WebMercator.js
-### 画点、线、矩形、多边形
+### 画点、线、矩形、多边形。。。
 #### Graphic.js
